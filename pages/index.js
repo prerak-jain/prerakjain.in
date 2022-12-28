@@ -6,7 +6,7 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import prerakAvatar from "../public/prerak-avatar.jpg";
-import Image from "next/image";
+import Image from "next/legacy/image";
 
 export default function Home() {
   return (
